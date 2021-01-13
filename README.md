@@ -12,6 +12,9 @@ Hello, my name is James Zhao. I am a sophomore at Yale University majoring in CS
 ![](https://img.shields.io/badge/Code-Python-blue)
 ![](https://img.shields.io/badge/Code-Java-blue)
 ![](https://img.shields.io/badge/Code-SQL-blue)
+![](https://img.shields.io/badge/Code-R-blue)
+
+![](https://img.shields.io/badge/Library-Scikit-Learn-red)
 ![](https://img.shields.io/badge/Library-PyTorch-red)
 ![](https://img.shields.io/badge/Library-Pandas-red)
 ![](https://img.shields.io/badge/Library-NumPy-red)
