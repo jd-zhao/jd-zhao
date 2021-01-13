@@ -1,16 +1,14 @@
-### Hi there 👋
+## 👋 Hi there :)
+Hello, my name is James Zhao. I am a sophomore at Yale University majoring in CS. Feel free to reach out via [email](mailto:jamesjdzhao@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/jd-zhao/)!
 
-<!--
-**jd-zhao/jd-zhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white)  
+![](https://img.shields.io/badge/Code-SQL-blue?style=flat-square&logo=mysql&logoColor=white) 
+![](https://img.shields.io/badge/Library-PyTorch-red?style=flat-square&logo=pytorch&logoColor=white) 
+![](https://img.shields.io/badge/Library-Pandas-red?style=flat-square&logo=pandas&logoColor=white) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/Skills-Git-blueviolet?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Skills-Databases-blueviolet?style=flat-square&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Skills-Cloud-blueviolet?style=flat-square&logo=googlecloud&logoColor=white)
+![](https://img.shields.io/badge/Skills-REST%20API-blueviolet?style=flat-square&logoColor=white)
