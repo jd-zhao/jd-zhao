@@ -9,17 +9,17 @@ Hello, my name is James Zhao. I am a sophomore at Yale University majoring in CS
 * I contribute to various independent and open-source projects. 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-blue)
-![](https://img.shields.io/badge/Code-Java-blue)
-![](https://img.shields.io/badge/Code-SQL-blue)
-![](https://img.shields.io/badge/Code-R-blue)
+![](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Code-Java-blue?style=flat-square&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Code-SQL-blue?style=flat-square&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Code-R-blue?style=flat-square&logo=django&logoColor=white)
 
-![](https://img.shields.io/badge/Library-Scikit-Learn-red)
-![](https://img.shields.io/badge/Library-PyTorch-red)
-![](https://img.shields.io/badge/Library-Pandas-red)
-![](https://img.shields.io/badge/Library-NumPy-red)
+![](https://img.shields.io/badge/Library-Scikit-Learn-re?style=flat-square&logo=django&logoColor=whited)
+![](https://img.shields.io/badge/Library-PyTorch-red?style=flat-square&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Library-Pandas-red?style=flat-square&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Library-NumPy-red?style=flat-square&logo=django&logoColor=white)
 
-![](https://img.shields.io/badge/Skills-AWS-green)
-![](https://img.shields.io/badge/Skills-Docker-green)
-![](https://img.shields.io/badge/Skills-Kubernetes-green)
-![](https://img.shields.io/badge/Skills-RESTful%20API-green)
+![](https://img.shields.io/badge/Skills-AWS-green?style=flat-square&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Skills-Docker-green?style=flat-square&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Skills-Kubernetes-green?style=flat-square&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Skills-RESTful%20API-green?style=flat-square&logo=django&logoColor=white)
