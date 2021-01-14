@@ -19,7 +19,6 @@ Hello, my name is James Zhao. I am a sophomore at Yale University majoring in CS
 ![](https://img.shields.io/badge/Library-Pandas-red?style=flat-square&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Library-NumPy-red?style=flat-square&logo=numpy&logoColor=white)
 
-
 ![](https://img.shields.io/badge/Skills-AWS-green?style=flat-square&logo=cloud&logoColor=white)
 ![](https://img.shields.io/badge/Skills-Docker-green?style=flat-square&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Skills-Kubernetes-green?style=flat-square&logo=kubernetes&logoColor=white)
