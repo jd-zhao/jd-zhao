@@ -1,5 +1,5 @@
 ## 👋 Hi there :)
-Hello, my name is James Zhao. I am a sophomore at Yale University majoring in CS. Feel free to reach out via [email](mailto:jamesjdzhao@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/jd-zhao/)!
+Hello, my name is James Zhao. I am a rising junior at Yale University majoring in CS. Feel free to reach out via [email](mailto:jamesjdzhao@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/jd-zhao/)!
 
 ## 🌱 Projects
 * I am a Research Assistant with the Yale Interactive Machines Group. Our research paper is [here](https://arxiv.org/abs/2012.12336).
